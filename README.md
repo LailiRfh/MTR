@@ -1,6 +1,8 @@
 # Praktikum PBO Modul 3 (Kelompok 1)
 
-Missions to Remember Project
+Nama Aplikasi   : Missions to Remember
+
+Keterangan      : Desktop
 
 Anggota Kelompok:
 1. Dinda Sabela Rahma W						(20/463598/TK/51590)
