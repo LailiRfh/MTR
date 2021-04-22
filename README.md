@@ -1,4 +1,4 @@
-# Praktikun PBO Modul 3 (Kelompok 1)
+# Praktikum PBO Modul 3 (Kelompok 1)
 
 Missions to Remember Project
 
